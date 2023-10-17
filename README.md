@@ -18,3 +18,23 @@
    - Storage :: Security, accessibility
    - Biases :: Algorithmic biases, data pre-processing, bias detection
 
+## Plan for the Predictive Model
+- I have no prior experience in building predictive models, so I used the internet to help me understand the process:
+- Plans:
+  1. Data explorattion :: dimensions, data types, N/A values
+  2. Pre-processing :: missing values, outliers
+  3. Analyze features :: normalize numerical values, data visulization
+  4. Encode Categorical values :: categorical encodings, One-hot encoding is used in this case
+  5. Model Building :: split data, train vs target, DecisionTree is used in this case
+  6. Findings, results, report on perfomance
+- Resources used:
+   - ChatGPT
+   - https://www.kaggle.com/code/manibhask/data-exploration-and-predictive-modeling
+   - a ton of Stack Overflow, Exchange, blah, blah
+
+## (10%) Given the work required to bring a solution like this to maturity and its performance, what considerations would you make to determine if this is a suitable course of action?
+- more data
+- a better encoding method for categorical target elements :: this looks like a multi-class classification, but I'm not sure how to implement it using skLearn
+- a more mature model
+     - Gradient Boosted Model, K-Means, Prophets, etc.
+- cross validation 
