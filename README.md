@@ -1,5 +1,8 @@
 # Food_Truck Thing
 
+### What is this?
+This is one of the TechPoint Xtern program's Assessment. I was able to move to the finalist, but unfortunately, due to personal reasons, I cannot make it to the actual in-person event. Anyways, this is definitely one of the most time-consuming and interesting OA for an intern application, and I learned a lot from this experience, so I thought it be nice to put it here and share my experience if anyone needs some sample for similar OAs. 
+
 ## (30%) Consider implications of data collection, storage, and data biases you would consider relevant here considering Data Ethics, Business Outcomes, and Technical Implications
 1. Ethical implications regarding data collection, storage, and data biases
    - Data privacy :: collecting, analyzing, store personal data may raise privacy concerns
